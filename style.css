@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.header{
+header{
     height: 75px;
     background-color: rgb(0, 0, 60);
     display: flex;
