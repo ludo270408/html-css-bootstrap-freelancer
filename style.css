@@ -26,13 +26,6 @@ header{
     text-align: center;
 }
 
-.card-content{
-    height: 270px;
-    border: 1px dashed black;
-    background-color: rgb(65, 166, 255);
-    margin: 10px 0;
-}
-
 .about, .contactme{
     margin: 50px 0;
 }
@@ -88,4 +81,8 @@ header{
     line-height: 4px;
     vertical-align: middle;
     border-radius: 1px;
+}
+
+.text-center.btn-outline-light:hover{
+    color: #000;
 }
