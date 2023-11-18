@@ -30,18 +30,12 @@ header{
     margin: 50px 0;
 }
 
-.content-form{
-    height: 250px;
-    background-color: rgb(166, 255, 255);
-    border: 1px dashed black;
-}
-
 .top-footer{
-    background-color: blue;
+    background-color: #486178;
 }
 
 .bottom-footer{
-    background-color: rgb(15, 15, 15);
+    background-color: #2e3d4b;
 }
 
 .top-footer-content{
