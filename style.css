@@ -33,7 +33,8 @@ header{
 }
 
 .card-content{
-    height: 100px;
+    height: 270px;
     border: 1px dashed black;
     background-color: rgb(65, 166, 255);
+    margin: 10px 0;
 }
