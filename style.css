@@ -39,7 +39,12 @@ header{
     margin: 10px 0;
 }
 
-.about{
+.about, .contactme{
     margin: 50px 0;
 }
 
+.content-form{
+    height: 250px;
+    background-color: rgb(166, 255, 255);
+    border: 1px dashed black;
+}
