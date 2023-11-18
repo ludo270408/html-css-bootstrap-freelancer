@@ -17,7 +17,7 @@ header{
     height: 50px;
 }
 
-.jumbo{
+.jumbo, .about{
     background-color: aquamarine;
 }
 
@@ -38,3 +38,8 @@ header{
     background-color: rgb(65, 166, 255);
     margin: 10px 0;
 }
+
+.about{
+    margin: 50px 0;
+}
+
