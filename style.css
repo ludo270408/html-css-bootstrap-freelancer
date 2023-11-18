@@ -6,15 +6,9 @@
 
 header{
     height: 75px;
-    background-color: rgb(0, 0, 60);
+    background-color: #486178;
     display: flex;
     align-items: center;
-}
-
-.header-content{
-    background-color: lightblue;
-    border: 1px dashed black;
-    height: 50px;
 }
 
 .jumbo, .about{
