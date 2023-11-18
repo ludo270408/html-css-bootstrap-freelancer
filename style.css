@@ -78,3 +78,14 @@ header{
     vertical-align: middle;
     border-radius: 1px;
 }
+
+.black-star-container::before, .black-star-container::after{
+    content: '';
+    width: 50px;
+    height: 4px;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    line-height: 4px;
+    vertical-align: middle;
+    border-radius: 1px;
+}
